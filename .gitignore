@@ -1,0 +1,6 @@
+# Python bytecode (never committed)
+__pycache__/
+*.pyc
+
+# Local virtual environment
+.venv/
