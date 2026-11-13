@@ -4,6 +4,11 @@ Record of updates to the official rulebook.
 
 ## 2026 Season
 
+### 13 November 2026 (v1.3)
+- Added rulebook directory creation from a blank template or by copying an existing directory, with matching behavior and validation in both the admin GUI and `fred`
+- Simplified `fred tmux` to a 3-pane Herdr layout (`editor`, `log`, `overview`) with a numbered overview hub menu so all actions including directory creation are reachable without memorizing keys
+- Added a Light/Dark theme toggle button to the admin GUI header (dark by default) that persists across reloads
+
 ### 12 November 2026
 - Published v1.2: Home updated
 
